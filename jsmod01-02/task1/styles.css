@@ -1,0 +1,13 @@
+.gradient-bg {
+  background: #986ee6;
+  text-align: center;
+  background: radial-gradient(
+    circle,
+    rgba(152, 110, 230, 1) 0%,
+    rgba(109, 199, 247, 1) 100%
+  );
+}
+
+.img {
+  border-radius: 25px;
+}
