@@ -1,7 +1,7 @@
+"use strict";
 
 const button = document.getElementById("start");
 button.addEventListener("click", () => {
-  "use strict";
   const num1 = parseFloat(document.getElementById("num1").value);
   const num2 = parseFloat(document.getElementById("num2").value);
   const selection = document.getElementById('operation').value;
