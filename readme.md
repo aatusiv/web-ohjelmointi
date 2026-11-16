@@ -39,3 +39,9 @@ Completed assignments:
 - Task 8: 6 p
 
 **Total 10p**
+
+### Python Flask Server
+
+Completed assignments:
+
+- Task 2: 10 p
