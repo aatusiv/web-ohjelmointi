@@ -27,6 +27,8 @@ Completed assignments:
 
 **Total 10p**
 
+---
+
 ### JS module 4
 
 [My link to js mod 4 folder at users.metropolia.fi](https://users.metropolia.fi/~aatusiv/jsmod04)
@@ -39,6 +41,8 @@ Completed assignments:
 - Task 8: 6 p
 
 **Total 10p**
+
+---
 
 ### Python Flask Server
 
